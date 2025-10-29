@@ -184,8 +184,8 @@ Due to the imbalanced nature of the dataset, we primarily focus on precision-rec
 Core dependencies:
 - `numpy>=1.21.0` - Numerical computing
 - `pandas>=1.3.0` - Data manipulation
-- `scikit-learn>=1.0.0` - Machine learning algorithms
-- `scipy>=1.7.0` - Scientific computing
+- `scikit-learn>=1.0.1` - Machine learning algorithms
+- `scipy>=1.8.0` - Scientific computing
 - `matplotlib>=3.4.0` - Plotting
 - `seaborn>=0.11.0` - Statistical visualization
 
